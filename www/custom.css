@@ -1,0 +1,82 @@
+/* Links and tab colors, previously #3C8B52 */
+.a {
+  color: red;
+}
+
+/* Shiny status colors for solid header*/
+.box.box-solid.box-primary>.box-header {
+  color: #242D32;
+  background: #242D32;
+}
+
+
+/*  Sliders */
+.irs-bar {
+  background: #0a0;
+}
+.irs-single {
+  background: #0a0;
+}
+.irs-bar-edge {
+  background: #0a0;
+}
+.irs-from {
+  background: #0a0;
+}
+.irs-to {
+  background: #0a0;
+}
+.irs-grid-pol {
+  background: #0a0;
+}
+
+/* Checkbox */
+.multicol {
+  height: 150px;
+  column-count: 2;
+  column-fill: auto;
+}
+
+.multicolmany {
+  height: 150px;
+  column-count: 5;
+  column-fill: auto;
+}
+
+/* Radio buttons inline */
+
+/* Tab headdings */
+
+/* Upload progress bar */
+.progress-bar {
+    background: #4AA361;
+}
+
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+
+.fig_desc {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 17px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+h4 {
+  margin-bottom: 5px;
+}
+
+.shiny-output-error { 
+  visibility: hidden; 
+}
+.shiny-output-error:before {
+  visibility: hidden;
+}
